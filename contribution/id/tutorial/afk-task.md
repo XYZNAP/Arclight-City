@@ -1,5 +1,4 @@
 ## Tugas AFK itu apa sih?
-Tugas AFK adalah tugas yang bisa kamu lakukan di latar belakang, kamu hanya perlu menunggu sejumlah waktu tertentu, dan ketika tugas selesai, kamu tinggal klik 'Selesai' untuk mendapatkan hadiahmu.
-
+AFK grind itu tugas ezpz cuy! Lu cuma perlu nyalain lantar belakang, terus ghosting aja sampe timer-nya bip! Abis itu, tekan tombol selesai buat hadianya auto masuk. Gak perlu ribet, no cap!
 ## Pekerjaan dan Tugas AFK
-Setiap jenis pekerjaan dan tingkat pekerjaan memiliki tugas AFK tersendiri. Dengan menyelesaikan tugas-tugas tersebut, kamu akan naik level pekerjaanmu yang sesuai, dan juga mendapatkan hadiah yang sedikit lebih baik dan beberapa 'Poin Atribut' tambahan tergantung jenis pekerjaan.
+Tiap job kategori Ama tingkatan-nya punya AFK task unik lur! kalo lu beresin semua misi AFK itu, job lu bakal naik level auto + dapet hadiah yang lebih worth itu. Bonusnya? + attribute points sesuai job-nya, cuy! Misal, hustle di engineering, dapet +IQ; kalo grind di culinary, dapet +vibe sensor!
