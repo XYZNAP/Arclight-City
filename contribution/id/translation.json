@@ -7813,7 +7813,7 @@
 		},
 		"title": {
 			"eng": "Cyber psychosis ${percent}%",
-			"trans": "Psikosis Siber ${persen}%"
+			"trans": "Psikosis Siber ${percent}%"
 		}
 	},
 	"psychosisInfoModal": {
